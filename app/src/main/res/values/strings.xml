@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClientApp</string>
+    <string name="edit_host">Enter server hostname</string>
+    <string name="edit_port">Enter server port</string>
+    <string name="button_connect">Connect</string>
+
+    <string name="edit_operation">Enter operation (e.g. alphag)</string>
+    <string name="edit_filename">Enter filename (e.g. para1.txt)</string>
+    <string name="button_send">Send</string>
+
+</resources>
